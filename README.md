@@ -1,4 +1,4 @@
-# DSA Tracker
+# DSA Tracker(for My personal use only)
 
 Full-stack app to track solved/unsolved LeetCode-pattern questions.
 Backend: FastAPI + MongoDB (Beanie/Motor) + JWT auth.
